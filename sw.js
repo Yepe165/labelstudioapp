@@ -1,9 +1,10 @@
-const CACHE_NAME = "label-studio-cache-v2";
+const CACHE_NAME = "label-studio-cache-v3";
 const PRECACHE_URLS = [
   "./label-studio-semua-produk.html",
   "./manifest.json",
   "./icons/icon-152.png",
-  "./icons/icon-192.png"
+  "./icons/icon-192.png",
+  "./icons/icon-512.png"
 ];
 
 // Install: pre-cache the core app shell
